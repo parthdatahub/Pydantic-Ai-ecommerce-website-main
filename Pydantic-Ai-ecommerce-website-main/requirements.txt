@@ -1,0 +1,12 @@
+pydantic-ai
+pydantic
+logfire
+nest_asyncio
+pydantic-ai-slim[groq]
+logfire[system-metrics]
+pydantic_ai_slim[openai]
+pymongo
+
+python-dotenv
+pandas
+openpyxl
